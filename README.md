@@ -1702,6 +1702,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 * [validate](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
+* [godepView](https://github.com/xuruiray/godepView) - Command line tool, visualize the package dependencies as a html page.
 
 ## Editor Plugins
 
